@@ -19,3 +19,12 @@ def boolean_to_string(b):
     return str(b)
 print(boolean_to_string(True))
 print(boolean_to_string(False))
+
+
+
+
+#задача 4
+def make_upper_case(s):
+    return s.upper() 
+print (make_upper_case("hello"), "HELLO")
+ 
